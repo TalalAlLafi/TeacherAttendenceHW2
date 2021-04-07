@@ -1,0 +1,47 @@
+C:\Users\mustafa\source\repos\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+C:\Users\mustafa\source\repos\TeacherAttendance\bin\Debug\TeacherAttendance.exe
+C:\Users\mustafa\source\repos\TeacherAttendance\bin\Debug\TeacherAttendance.pdb
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.csprojAssemblyReference.cache
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.Properties.Resources.resources
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.GenerateResource.cache
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+C:\Users\mustafa\source\repos\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\bin\Debug\TeacherAttendance.exe
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\bin\Debug\TeacherAttendance.pdb
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.csprojResolveAssemblyReference.cache
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.Properties.Resources.resources
+C:\Users\AL-NYZAK\Desktop\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.GenerateResource.Cache
+D:\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+D:\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+D:\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
+D:\TeacherAttendance\bin\Debug\TeacherAttendance.exe
+D:\TeacherAttendance\bin\Debug\TeacherAttendance.pdb
+D:\TeacherAttendance\obj\Debug\TeacherAttendance.csprojResolveAssemblyReference.cache
+D:\TeacherAttendance\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+D:\TeacherAttendance\obj\Debug\TeacherAttendance.Properties.Resources.resources
+D:\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.GenerateResource.Cache
+C:\Users\ECS\Desktop\New folder (4)\TeacherAttendance\bin\Debug\TeacherAttendance.exe.config
+C:\Users\ECS\Desktop\New folder (4)\TeacherAttendance\obj\Debug\TeacherAttendance.exe
+C:\Users\ECS\Desktop\New folder (4)\TeacherAttendance\obj\Debug\TeacherAttendance.pdb
+C:\Users\ECS\Desktop\New folder (4)\TeacherAttendance\bin\Debug\TeacherAttendance.exe
+C:\Users\ECS\Desktop\New folder (4)\TeacherAttendance\bin\Debug\TeacherAttendance.pdb
+C:\Users\ECS\Desktop\New folder (4)\TeacherAttendance\obj\Debug\TeacherAttendance.csprojResolveAssemblyReference.cache
+C:\Users\ECS\Desktop\New folder (4)\TeacherAttendance\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+C:\Users\ECS\Desktop\New folder (4)\TeacherAttendance\obj\Debug\TeacherAttendance.Properties.Resources.resources
+C:\Users\ECS\Desktop\New folder (4)\TeacherAttendance\obj\Debug\TeacherAttendance.csproj.GenerateResource.Cache
+C:\Users\fives\source\repos\TeacherAttendance#2nd\bin\Debug\TeacherAttendance.exe.config
+C:\Users\fives\source\repos\TeacherAttendance#2nd\bin\Debug\TeacherAttendance.exe
+C:\Users\fives\source\repos\TeacherAttendance#2nd\bin\Debug\TeacherAttendance.pdb
+C:\Users\fives\source\repos\TeacherAttendance#2nd\obj\Debug\TeacherAttendance.csprojAssemblyReference.cache
+C:\Users\fives\source\repos\TeacherAttendance#2nd\obj\Debug\TeacherAttendance.frmTeacherAttendance.resources
+C:\Users\fives\source\repos\TeacherAttendance#2nd\obj\Debug\TeacherAttendance.Properties.Resources.resources
+C:\Users\fives\source\repos\TeacherAttendance#2nd\obj\Debug\TeacherAttendance.csproj.GenerateResource.cache
+C:\Users\fives\source\repos\TeacherAttendance#2nd\obj\Debug\TeacherAttendance.csproj.CoreCompileInputs.cache
+C:\Users\fives\source\repos\TeacherAttendance#2nd\obj\Debug\TeacherAttendance.exe
+C:\Users\fives\source\repos\TeacherAttendance#2nd\obj\Debug\TeacherAttendance.pdb
